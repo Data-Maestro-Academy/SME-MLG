@@ -1,0 +1,28 @@
+schema: ../ODPS4.1/schema/odps.json
+version: v4.1
+product:
+  details:
+    en:
+      name: Flight Schedules Data Product
+      productID: flight-schedules-001
+      visibility: public
+      status: production
+      type: dataset
+      description: Real-time and scheduled flight departure and arrival information for major airports. Includes flight numbers, airlines, origin, destination, scheduled and actual times, gate information, and flight status updates.
+      valueProposition: Enables travel applications, airport operations, and logistics systems to provide accurate, up-to-date flight information to passengers and stakeholders, reducing uncertainty and improving travel experience.
+    fi:
+      name: Lentoaikataulut datatuote
+      productID: flight-schedules-001
+      visibility: public
+      status: production
+      type: dataset
+      description: Reaaliaikainen ja aikataulutettu lentojen lähtö- ja saapumistieto suurimmille lentokentille. Sisältää lentonumerot, lentoyhtiöt, lähtö- ja määränpään, suunnitellut ja todelliset ajat, porttitiedot ja lennon tilapäivitykset.
+      valueProposition: Mahdollistaa matkasovellusten, lentoasematoimintojen ja logistiikkajärjestelmien tarjota tarkkaa, ajantasaista lentotietoa matkustajille ja sidosryhmille, vähentäen epävarmuutta ja parantaen matkakokemusta.
+    sv:
+      name: Flygtidtabeller dataprodukt
+      productID: flight-schedules-001
+      visibility: public
+      status: production
+      type: dataset
+      description: Realtids- och schemalagd information om avgångar och ankomster för större flygplatser. Inkluderar flygnummer, flygbolag, ursprung, destination, schemalagda och faktiska tider, gateinformation och uppdateringar av flygstatus.
+      valueProposition: Möjliggör för reseapplikationer, flygplatsoperationer och logistiksystem att tillhandahålla korrekt och uppdaterad flyginformation till passagerare och intressenter, vilket minskar osäkerhet och förbättrar reseupplevelsen.

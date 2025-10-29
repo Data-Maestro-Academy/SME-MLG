@@ -1,0 +1,28 @@
+schema: ../ODPS4.1/schema/odps.json
+version: v4.1
+product:
+  details:
+    en:
+      name: Airport Bus Locations API
+      productID: bus-locations-airport-001
+      visibility: public
+      status: production
+      type: data-driven service
+      description: Real-time location tracking API for buses operating near airport facilities. Provides GPS coordinates, route information, estimated arrival times, bus capacity, and current occupancy levels for airport shuttle services and public transportation routes serving airport terminals.
+      valueProposition: Enables travelers, airport apps, and transportation platforms to access live bus location data, helping passengers plan their airport commute efficiently, reduce wait times, and make informed decisions about ground transportation options.
+    fi:
+      name: Lentokenttien bussipaikannus API
+      productID: bus-locations-airport-001
+      visibility: public
+      status: production
+      type: data-driven service
+      description: Reaaliaikainen paikannusrajapinta lentokenttäalueiden lähellä liikennöiville busseille. Tarjoaa GPS-koordinaatit, reittiinformaation, arvioidut saapumisajat, bussien kapasiteetin ja nykyisen käyttöasteen lentoaseman kuljetuspalveluille ja lentokenttäterminaaleja palveleville joukkoliikennereitteille.
+      valueProposition: Mahdollistaa matkailijoiden, lentoasemasovellusten ja kuljetusalustojen saada reaaliaikaista bussin sijaintitietoa, auttaen matkustajia suunnittelemaan lentoasemamatkansa tehokkaasti, vähentämään odotusaikoja ja tekemään tietoon perustuvia päätöksiä maaliikenneasioissa.
+    sv:
+      name: Flygplatsbussplatser API
+      productID: bus-locations-airport-001
+      visibility: public
+      status: production
+      type: data-driven service
+      description: Realtidsplatsuppföljning API för bussar som trafikerar nära flygplatsområden. Tillhandahåller GPS-koordinater, ruttinformation, uppskattade ankomsttider, busskapacitet och aktuell beläggning för flygplatsskytteltrafik och kollektivtrafiklinjer som betjänar flygplatsterminaler.
+      valueProposition: Möjliggör för resenärer, flygplatsappar och transportplattformar att få tillgång till realtidsdata om busspositioner, vilket hjälper passagerare att planera sin flygplatsresa effektivt, minska väntetider och fatta välgrundade beslut om marktransportalternativ.
