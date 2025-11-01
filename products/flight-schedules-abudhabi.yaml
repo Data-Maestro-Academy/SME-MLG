@@ -1,0 +1,16 @@
+schema: ../ODPS4.1/schema/odps.json
+version: 4.1
+product:
+  details:
+    en:
+      name: Flight Schedules Abu Dhabi Airport
+      productID: flight-schedules-abudhabi
+      visibility: public
+      status: draft
+      type: dataset
+    fi:
+      name: Lentoaikataulut Abu Dhabin lentoasema
+      productID: flight-schedules-abudhabi
+      visibility: public
+      status: draft
+      type: dataset

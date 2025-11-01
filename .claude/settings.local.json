@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(dir /s \"c:\\Users\\jarkk\\OneDrive\\Tiedostot\\GitHub\\SME-MLG\\ODPS4.1\")"
     ],
     "deny": [],
     "ask": []

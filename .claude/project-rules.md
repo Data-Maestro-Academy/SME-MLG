@@ -24,3 +24,27 @@
 
 ## 7. Change Control
 - Any new field requires schema update before use
+
+## 8. Minimal Data Product Definition
+- When "minimal" or "minimum" is requested, include only basic product details:
+  - Required schema fields only
+  - NO pricing plan
+  - NO SLA or data quality
+  - No access component
+  - No license terms
+  - No Core support contact information
+- Avoid extensive or elaborate content in descriptions
+- Keep all text fields concise and to the point
+- create only english version
+
+Example:
+
+schema: https://opendataproducts.org/v4.1/schema/odps.yaml
+version: 4.1
+product:
+  en:
+    name: Pets of the year
+    productID: 123456are
+    visibility: private
+    status: draft
+    type: derived data
